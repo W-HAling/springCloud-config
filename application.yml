@@ -10,7 +10,7 @@ spring:
     username: root
     password: 123
 config:
-  info: spring-cloud-config- version = 6
+  info: spring-cloud-config- version = 2
 
 mybatis:
   mapper-locations: classpath:/mapper/*.xml 
